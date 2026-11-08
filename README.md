@@ -428,6 +428,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 ## 🔗 <a name="aggregators"></a>Aggregators
 
 > Tools for accessing many apps and tools through a single MCP server..
+- [JiZhiMCP](https://xn--5kvtwv52d.com) - Agent-first MCP gateway: host any HTTP API as a standard MCP service, with 21 built-in tools (weather, exchange rate, GitHub/Stack Overflow search, DNS, timezone, holidays) and a tamper-evident cross-agent settlement ledger.
 
 - <img height="12" width="12" src="https://github.com/mcpjungle/MCPJungle/blob/main/assets/logo.png" alt="MCPJungle Logo" /> [MCPJungle](https://github.com/mcpjungle/MCPJungle) - Self-hosted MCP Registry and Proxy for enterprise AI Agents.
 
